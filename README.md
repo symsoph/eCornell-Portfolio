@@ -15,4 +15,10 @@ I had to pivot, so I changed my plan and defined a new problem: to predict if an
 
 In the **Unit 8 folder**, `Lab_DefineAndSolveMLProblem.ipynb` contains my process and analysis, or free feel to view the `pdf` version under a similar name. 
 
-You can `clone` this repo to run the notebook yourself to see the models, 
+You can `clone` this repo to:
+
+1.  View my process
+2.  Run the notebook yourself to see the models + pickle the models
+    - Pickling happens at the very last cell
+
+P.S. The notebook can be run on the web with Github codespaces for free (be wary of going over Github's limit)
