@@ -15,6 +15,6 @@ I had to pivot, so I changed my plan and defined a new problem: to predict if an
 
 In the **Unit 8 folder**, `Lab8_DefineAndSolveMLProblem.ipynb` contains my process and analysis, or free feel to view the `pdf` version under a similar name. 
 
-You can `clone` this repo to run the notebook yourself to see the models + pickle the models to experiment some more. (Pickling happens at the very last cell and will be added to the repo)
+You can `clone` this repo to run the notebook yourself to see the models + pickle the models to experiment some more (Pickling happens at the very last cell and will be added to the repo).
 
-> P.S. If you prefer, the notebook can be run on the web with Github codespaces for free (be wary of going over Github's limit)
+> P.S. If you prefer, the notebook can be run on the web with Github codespaces for free (be wary of going over Github's limit).
