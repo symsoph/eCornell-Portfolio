@@ -11,9 +11,12 @@ Initially, I was inspired by our `Neural Network Sentiment Analysis` notebook, s
 
 I had to pivot, so I changed my plan and defined a new problem: to predict if an individual's income was greater than 50k, given a variety of personal data from the USA census.  
 
+
 ## Viewing the Project
 
 In the **Unit 8 folder**, `Lab8_DefineAndSolveMLProblem.ipynb` contains my process and analysis, or free feel to view the `pdf` version under a similar name. 
+
+![income](/Unit_8/btt-final-unit8.png)
 
 You can `clone` this repo to run the notebook yourself to see the models + pickle the models to experiment some more (Pickling happens at the very last cell and will be added to the repo).
 
